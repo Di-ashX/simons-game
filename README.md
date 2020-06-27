@@ -5,3 +5,4 @@
 
  ticking on strict will reduce your score to zero as soon as you imitate the wrong colors 
  
+ to play the game, clone or download the code from the repository and then open the index file on web browser
